@@ -79,12 +79,6 @@ h5 {
     font-weight: bold;
 }
 
-
- img{
-        max-width: 100%;
-        max-height: 100%;
-        display: block; /* remove extra space below image */
-    }
 	
 	.img-fluid{
 		width:100%;
